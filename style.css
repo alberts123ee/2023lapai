@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(131, 216, 51);
+}
+.Mācību-klucis{
+    background-color: rgb(78, 47, 217);
+    height: 100px;
+    color: red;
+
+}
+.label{
+    width: 100%;
+    
+    
+}
+
+.attela-saite {
+    border: 2px solid #000; 
+    padding: 5px; 
+    display: flex; 
+    align-items: center;
+    align-content: center;
+    width: 210px;
+    height: 205px;
+  }
